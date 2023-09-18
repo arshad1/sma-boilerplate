@@ -1,0 +1,10 @@
+SMA CLI
+
+sma generate:service -s [service name] 
+
+Description:
+  Generate Micro Service boilerplate
+
+Required:
+  -s                      Service name
+

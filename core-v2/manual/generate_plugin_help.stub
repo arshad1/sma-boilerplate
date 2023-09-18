@@ -1,0 +1,15 @@
+SMA CLI
+
+sma generate:plugin -s [service name] -p [plugin name] [options]
+
+Description:
+  Generate Plugin for service
+
+Required:
+  -s                      Service name
+  -p                      Plugin name
+
+Options:
+ 
+  --force                 Force replace generated files
+  --help                  Show this help  

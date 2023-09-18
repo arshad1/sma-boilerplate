@@ -1,0 +1,12 @@
+VYNL CLI
+
+vynl [command] [options]
+
+Commands:
+  sma init                             Initializes project
+  sma generate:service                 Generates Service boilerplate
+  sma generate:plugin                  Generates plugin boilerplate
+
+
+Options:
+  --help      Show help

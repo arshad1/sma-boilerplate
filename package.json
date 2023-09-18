@@ -1,0 +1,25 @@
+{
+  "name": "sma",
+  "version": "0.1.0",
+  "description": "sma a boilerplate generator for Express.js projects using micro service MVC architecture",
+  "keywords": [
+    "sma"
+  ],
+  "main": "cli-v2.js",
+  "author": "Arshad KM",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arshad1/sma"
+  },
+  "bugs": {
+    "url": "https://github.com/arshad1/sma/issues",
+    "email": "arshadkm@gmail.com"
+  },
+  "scripts": {
+    "sma": "node cli-v2.js"
+  },
+  "bin": {
+    "sma": "./cli-v2.js"
+  }
+}
